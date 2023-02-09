@@ -1,2 +1,2 @@
 hello world!
-how a wonderfule world!
+how a wonderful world!
